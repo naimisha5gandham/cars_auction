@@ -1,0 +1,10 @@
+.list{
+    display: flex;
+}
+.cont{
+    margin-left: 75px;
+    margin-top: 40px;
+}
+.carcard{
+    width: 400px;
+}

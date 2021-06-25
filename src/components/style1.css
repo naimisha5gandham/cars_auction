@@ -1,0 +1,56 @@
+*{
+    padding: 5px;
+}
+.img{
+    position: relative;
+    height: 400px;
+    width: 750px;
+}
+.container{
+    margin: 20px solid grey;
+    max-width: 900px;
+    
+    
+}
+.audi{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+.h-100{
+    width: 350px;
+    color: #023e8a;
+}
+.intro{
+    color: #242423;
+}
+.bid{
+    color: grey;
+}
+.dollar{
+    color: #595959;
+}
+.btn{
+    background-color: #0466c8;
+    color: #ffff;
+    border-radius: 12px;
+}
+.body{
+    display: flex;
+}
+
+.icon1{ margin-left: 50px;
+  
+    
+    height: 150px;
+    width: 150px;
+}
+.icon{
+    margin-left: 50px;
+   display: flex;
+    height: 160px;
+    width: 160px;
+}
+.naimi{
+    height: 400px;
+    width: 700px;
+}
